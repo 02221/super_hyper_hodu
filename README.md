@@ -19,7 +19,7 @@ Content: 금융 시계열 데이터를 분석하고 매매 패턴 학습을 통�
 ## Paper
 
 1. 제1저자  
-Using Machine Algorithm for Forecasting Returns on IPO firms  
+Title: Using Machine Algorithm for Forecasting Returns on IPO firms  
 
 Content: 머신러닝 알고리즘을 활용하여 신규공모주의 수익률 예측. 알고리즘으로는 Random Forest, XGBoost, Deep Neural Networks를 사용하였으며 기존의 통계학적 방법론과 비교했을때 예측정확도가 개선되었음을 보임.  
 
@@ -28,7 +28,7 @@ Journal: Quantitative Bio-Science
 
 
 2. 공동저자  
-An Investment Strategy to Integrate the KOSDAQ150 Index and Bitcoin Using the Rough Set Theory  
+Title: An Investment Strategy to Integrate the KOSDAQ150 Index and Bitcoin Using the Rough Set Theory  
 
 Content: 가상화폐의 장기적, 안정적 투자를 위해 코스닥과 함께 포트폴리오를 구성. 러프셋 이론을 활용하여 최적포트폴리오 탐색.  
 
@@ -36,8 +36,8 @@ Publication Date: 2021-06-01
 Journal: Quantitative Bio-Science  
 
 
-2. 공동저자  
-Prediction of  the  Change  Points in Stock  Markets  Using DAE-LSTM  
+3. 공동저자  
+Title: Prediction of  the  Change  Points in Stock  Markets  Using DAE-LSTM  
 
 Content: 인공신경망 기반 알고리즘인 디노이징 오토 인코더를 활용하여 주가의 노이즈를 제거한 후 주가 트렌드의 structural change point를 탐지.  
 
